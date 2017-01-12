@@ -4,8 +4,11 @@ Download and unzip the .ZIP file of this repository. Add the text file to the un
 Then, open terminal and type in the following commands:
 
 *ipython*
+
 *cd Downloads*
+
 *cd Markov-Text-Generation-master*
+
 *run textgenerator.py*
 
 **The Idea**
