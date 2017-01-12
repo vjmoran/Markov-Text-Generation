@@ -1,8 +1,3 @@
-# CS5 Black, hw10pr2
-# Name: Vicki Moran
-# Date: 11/14/2016
-# Problem description: Markov Text Generation
-
 import random
 import string
 
@@ -114,8 +109,3 @@ def gen_from_model(mmodel, numwords):
 
 if __name__ == "__main__":
     main()
-
-
-# I used Drake lyrics as my input text and an order of 2
-
-# I Too aim reserved I one know stone, more life More time to get it right It's only me but I'm seeing four shadows in the music Because if I don't say it here then I won't say nothing Could feel my hand getting tired from holding the grudges Two birds, Too reserved like I called ahead for me and my lady Free C5, one stone, I know that day's coming I put it all in the light My demons visit me every night To the most high I'm forever indebted I know that day's coming I put it all in the light My demons visit me every night To the most high I'm forever indebted I know I gotta pay something, Too reserved like I called ahead for me and my lady Free C5, how the fuck we got the boss waiting Ever since the blue basement I found God and I lost patience Between rocks and hard places of all places my my aim is amazing I need to start losing my shit Just to show you niggas who hatin' Too reserved like I called ahead for me and my lady Free C5, Too reserved like I called ahead for me and my lady Free C5, Too reserved like I called ahead for me and my lady Free C5, Too reserved like I called ahead for me and my lady Free C5, Too reserved like I called ahead for me and my lady Free C5, my aim is amazing I need to start losing my shit Just to show you niggas who hatin' more life More time to get it right It's only me but I'm seeing four shadows in the light My demons visit me every night To the most high I'm forever indebted I know that day's coming I put it all in the light My demons visit me every night To the most high I'm forever indebted I know that day's coming I put it all in the light My demons visit me every night To the most high I'm forever indebted I know I gotta pay something, more life More time with family and friends, how the fuck we got the boss waiting Ever since the blue basement I found God and I lost patience Between rocks and hard places of all places I Too know reserved Too how reserved the how Too the reserved more how life the my how aim the Too Too reserved like I called ahead for me and my lady Free C5, my aim is amazing I need to start losing my shit Just to show you niggas who hatin' my aim is amazing I need to start losing my shit Just to show you niggas who hatin' how the fuck we got the boss waiting Ever since the blue basement I found God and I lost patience Between rocks and hard places of all places I how know the more how life the more one life stone, I.
