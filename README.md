@@ -1,3 +1,5 @@
+# Markov Text Generation
+
 **Running the File**
 
 Download and unzip the .ZIP file of this repository. Add the text file to the unzipped folder that you want to use to generate similar text from. 
